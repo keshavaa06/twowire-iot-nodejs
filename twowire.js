@@ -1,6 +1,6 @@
 
 // ---------- Connection with aws-iot ------------
-
+// this change i have to project it only in twowire-deviceshadows branch
 var awsIot = require('aws-iot-device-sdk')
 const thingName = "twowire"
 
